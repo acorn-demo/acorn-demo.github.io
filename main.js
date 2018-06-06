@@ -24633,7 +24633,7 @@ var _ianmackenzie$acorn_demo$Main$view = function (model) {
 		A3(
 			_ianmackenzie$acorn_demo$Rectangle2d$translateIn,
 			_ianmackenzie$acorn_demo$Direction2d$x,
-			-5,
+			15,
 			_ianmackenzie$acorn_demo$Rectangle2d$fromExtrema(
 				{minX: 0, maxX: 833, maxY: 1080, minY: 1080 - 170})));
 	var backgroundRectangle = _ianmackenzie$acorn_demo$Rectangle2d$fromExtrema(
@@ -24742,7 +24742,7 @@ var _ianmackenzie$acorn_demo$Main$view = function (model) {
 											},
 											{
 												ctor: '::',
-												_0: A2(_ianmackenzie$acorn_demo$Drawing2d$image, 'images/WHITE_ACORN_by_Arup.svg', logoRectangle),
+												_0: A2(_ianmackenzie$acorn_demo$Drawing2d$image, 'images/acorn_logo.svg', logoRectangle),
 												_1: {ctor: '[]'}
 											}),
 										_1: {ctor: '[]'}
